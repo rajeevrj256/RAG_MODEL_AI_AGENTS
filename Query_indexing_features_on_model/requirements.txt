@@ -1,4 +1,4 @@
-llama-index
+llama_index
 google-generativeai
 pypdf
 python-dotenv
